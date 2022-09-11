@@ -10,7 +10,8 @@
   </h3>
   </div>
   
-<h2 align='center'>My Technologies</h2>
+<div align='center'>
+<h2 align='center'>My Technologies<img src='https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966' width='70px' height='60px'></h2>
 
   <div style="display: inline_block" align='center'><br>
   <img align="center" alt="Angel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,11 +20,15 @@
   <img align="center" alt="Angel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Angel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
+  <br>
   
   <!-- My GitHub Stats -->
-  <h2 align='center'>My GitHub Stats</h2>
 <div>
-  <a href="https://github.com/rafaballerini">
+  <h2 align='center'>
+  My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
+  </h2>
+<div>
+  <a href="https://github.com/anadanttas">
   <img height="140em"src="https://github-readme-stats.vercel.app/api?username=anadanttas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadanttas&layout=compact&langs_count=7&theme=dracula"/>
   <img align="left" alt="Angel-pic" height="115" style="margin-top:90px;"
