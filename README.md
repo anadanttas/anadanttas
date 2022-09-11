@@ -1,5 +1,5 @@
 <!-- Main Background -->
-<img width= '1000px' height= '500px' src= "https://wallpaperaccess.com/full/2641074.gif">
+<img width= '1000px' height= '550px' src= "https://wallpaperaccess.com/full/8351169.gif">
 
 <!-- Main Text / Hello, I'm Angel -->
 
