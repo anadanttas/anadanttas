@@ -26,7 +26,7 @@
   <a href="https://github.com/rafaballerini">
   <img height="140em"src="https://github-readme-stats.vercel.app/api?username=anadanttas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadanttas&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Angel-pic" height="130" style="margin-top:100px;"
+  <img align="left" alt="Angel-pic" height="110" style="margin-top:90px;"
   src="https://media.discordapp.net/attachments/831233507937878058/1018539315694940240/me6.png?width=437&height=437">
 </div>
   
