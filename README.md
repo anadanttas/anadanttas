@@ -44,5 +44,5 @@
   
 <!--  My Recent Musics on Spotify  -->
    <div>
-<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=psmxhovvte8v8b64z2akowgmh"><img align="right" width="400px" height="290px" src="https://c.tenor.com/aj2m5lTme9cAAAAC/darkville-rpg.gif">
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=psmxhovvte8v8b64z2akowgmh"><img align="right" width="400px" height="350px" src="https://c.tenor.com/aj2m5lTme9cAAAAC/darkville-rpg.gif">
   </div>
