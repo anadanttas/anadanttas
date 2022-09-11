@@ -37,3 +37,11 @@
    <a href="https://www.instagram.com/angelhellss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ana-dantas-68194a247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+  
+  <br> 
+  <br>
+  
+<!--  My Recent Musics on Spotify  -->
+   <div>
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=psmxhovvte8v8b64z2akowgmh"><img align="right" width="400px" height="290px" src="https://c.tenor.com/R62yy_U5ww8AAAAC/lisa-bailando-dance.gif">
+  </div>
