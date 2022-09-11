@@ -29,3 +29,11 @@
   <img align="right" alt="Angel-pic" height="160" style="border-radius:50px;"
   src="https://media.discordapp.net/attachments/831233507937878058/1018539315694940240/me6.png?width=437&height=437">
 </div>
+  
+ <!-- My Social Medias and some Links -->
+  <h2 align='center'>Social Medias and Links</h2><br>
+  
+<div align="center">
+   <a href="https://www.instagram.com/angelhellss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ana-dantas-68194a247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
