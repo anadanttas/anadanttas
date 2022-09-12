@@ -5,7 +5,7 @@
 <!-- Main Text / Hello, I'm Angel -->
 
 <div align= 'center'>
-  <h1><img src='https://cdn.discordapp.com/attachments/831233507937878058/1019031431806206032/UnknownUnderstatedHorse-size_restricted.gif' width='100px' height='150px'></h1>
+  <h1><img src='https://cdn.discordapp.com/attachments/831233507937878058/1019031431806206032/UnknownUnderstatedHorse-size_restricted.gif' width='150px' height='150px'></h1>
   <h3>
     Hi, I'm Ana Dantas (I prefer to be called Angel) and I'm studying to be a web developer, I love books and play the piano, in my spare time I always try to do creative projects to improve my art of coding.
   </h3>
