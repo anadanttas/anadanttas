@@ -1,17 +1,20 @@
 <!-- Main Background -->
 <img width= '1000px' height= '550px' src= "https://wallpaperaccess.com/full/8351169.gif">
-
+<br>
+<br>
 <!-- Main Text / Hello, I'm Angel -->
 
 <div align= 'center'>
-  <h1>Hii!🧚‍♀️</h1>
+  <h1><img src='https://cdn.discordapp.com/attachments/831233507937878058/1019031431806206032/UnknownUnderstatedHorse-size_restricted.gif' width='100px' height='150px'></h1>
   <h3>
     Hi, I'm Ana Dantas (I prefer to be called Angel) and I'm studying to be a web developer, I love books and play the piano, in my spare time I always try to do creative projects to improve my art of coding.
   </h3>
   </div>
+  <br>
+  <br>
   
 <div align='center'>
-<h2 align='center'>My Technologies<img src='https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966' width='70px' height='60px'></h2>
+<h2 align='center'>My Technologies<img src='https://media.discordapp.net/attachments/831233507937878058/1019028267438723153/solid-snake-metal-gear-solid.gif' width='70px' height='60px'></h2>
 
   <div style="display: inline_block" align='center'><br>
   <img align="center" alt="Angel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +28,7 @@
   <!-- My GitHub Stats -->
 <div>
   <h2 align='center'>
-  My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
+  My GitHub Stats <img width='50px' height='50px' src="https://media.discordapp.net/attachments/831233507937878058/1019023921858756770/homenaranha_.gif">
   </h2>
 <div>
   <a href="https://github.com/anadanttas">
