@@ -62,4 +62,4 @@
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
 </p>
 
-  <!--  Made By : Angel -->
+  <!--  Made By : Angel --> <!-- Inspired Gustavo-juvino -->
