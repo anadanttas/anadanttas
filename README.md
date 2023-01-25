@@ -31,11 +31,11 @@
   My GitHub Stats <img width='50px' height='50px' src="https://media.discordapp.net/attachments/831233507937878058/1019023921858756770/homenaranha_.gif">
   </h2>
 <div>
-  <a href="https://github.com/anadanttas">
-  <img height="140em"src="https://github-readme-stats.vercel.app/api?username=anadanttas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadanttas&layout=compact&langs_count=7&theme=dracula"/>
+  <a href= "https://github.com/anadanttas">
+  <img height="140em"src= "https://github-readme-stats.vercel.app/api?username=anadanttas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anadanttas&layout=compact&langs_count=7&theme=dracula"/>
   <img align="left" alt="Angel-pic" height="115" style="margin-top:90px;"
-  src="https://media.discordapp.net/attachments/831233507937878058/1018539315694940240/me6.png?width=437&height=437">
+  src= "https://media.discordapp.net/attachments/831233507937878058/1018539315694940240/me6.png?width=437&height=437">
 </div>
   
  <!-- My Social Medias and some Links -->
